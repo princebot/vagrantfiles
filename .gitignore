@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+
+# Files created by `vagrant up`
+.vagrant
+*.log
